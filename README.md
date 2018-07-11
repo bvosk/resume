@@ -1,6 +1,11 @@
-# `resume`
+# `Résumé`
 
-This is my resume.
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/bvosk/resume/master/resume.pdf">
+    <img src="https://raw.githubusercontent.com/bvosk/resume/master/resume.png">
+  </a>
+</div>
 
 # Credit
 
